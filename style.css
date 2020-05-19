@@ -44,6 +44,12 @@ nav a {
   color: aliceblue;
 }
 
+.foot1 a,
+.foot2 a {
+  color: #08c;
+  text-decoration: none;
+}
+
 nav a:hover {
   background: radial-gradient(rgb(29, 29, 29), rgb(85, 85, 85));
 }
@@ -157,12 +163,6 @@ nav span input:focus {
   display: flex;
   list-style-type: none;
   justify-content: space-between;
-}
-
-.foot1 a,
-.foot2 a {
-  color: #08c;
-  text-decoration: none;
 }
 
 .foot1 ul a {
