@@ -1,6 +1,6 @@
 # PROJECT: BUILDING WITH BACKGROUNDS AND GRADIENTS
 
-> This is a clone of an old version of the Apple website webpage using HTML & CSS.
+This is a clone of an old version of the Apple website webpage using HTML & CSS.
 
 ![screenshot](images/screenshot.png)
 
