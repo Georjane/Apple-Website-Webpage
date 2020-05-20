@@ -87,7 +87,7 @@ nav span input:focus {
   padding-top: 5px;
 }
 
-nav span input:focus + .fa-search:before {
+nav span input:focus + .fa-search::before {
   color: rgb(110, 110, 110);
   margin-right: 35px;
 }
