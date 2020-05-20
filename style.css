@@ -76,7 +76,7 @@ nav span input:focus {
   margin-right: 8px;
   outline: none;
   background: antiquewhite;
-  padding-left: 8px;
+  padding-left: 15px;
 }
 
 #search {
@@ -85,6 +85,11 @@ nav span input:focus {
   color: antiquewhite;
   font-size: 12px;
   padding-top: 5px;
+}
+
+nav span input:focus + .fa-search:before {
+  color: rgb(110, 110, 110);
+  margin-right: 35px;
 }
 
 .head {
